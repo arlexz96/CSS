@@ -1,5 +1,30 @@
+body{
+    background-color: gray;
+}
+
 h1{
     text-align: center;
     color: blue;
+    text-transform: uppercase;
+}
+
+/* seleccion del nombre mediante la etiqueta
+p{
+    color: green;
+} */
+
+#parrafo1{
+    color: yellow;
+}
+
+#parrafo2{
+    color: blue;
+}
+
+#parrafo3{
+    color: red;
+}
+
+.transformar-texto-en-mayuscula{
     text-transform: uppercase;
 }
