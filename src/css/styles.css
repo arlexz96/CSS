@@ -28,3 +28,7 @@ p{
 .transformar-texto-en-mayuscula{
     text-transform: uppercase;
 }
+
+nav{
+    text-align: center;
+}
