@@ -1,0 +1,46 @@
+#parrafo-prueba{
+    background-color: black;
+    color: white;
+/*     border-style: solid;
+    border-color: red;
+    border-width: 15px; */
+    border: 15px groove red;
+/*     border-top-width: 50px;
+    border-right-width: 50px;
+    border-bottom-width: 50px;
+    border-left-width: 50px; */
+
+/*     border-width: 50px 50px 50px 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px ; */
+    border-radius: 20px;
+}
+
+#imagen1{
+    border-width: 10px 20px 10px 20px; 
+    border-style: dotted;
+    border-color: blue;
+    width: 300px;
+    
+}
+#imagen2{
+    border: 10px dotted violet;
+    width: 300px;
+}
+#imagen3{
+    border: 10px double goldenrod;
+    width: 300px;
+    height: 500px;
+}
+#imagen4{
+    border: 10px solid cornflowerblue;
+    border-radius: 10px;
+    border-radius: 60%;
+    width: 300px;
+}
+#imagen5{
+    border: 10px inset purple;
+    width: 300px;
+}

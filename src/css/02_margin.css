@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+section{
+    border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 80vh;
+
+}
+.contenedor-imagen{
+    border:  1px solid orange;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imagen{
+    border: 1px solid red;
+    width: 80px;
+}
